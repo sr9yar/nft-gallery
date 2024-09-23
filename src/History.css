@@ -1,0 +1,11 @@
+.history-container ul {
+  list-style-type: none;
+}
+
+.history-container ul li {
+  margin-bottom: 8px;
+}
+
+h2 span {
+  font-size: 12px;
+}
